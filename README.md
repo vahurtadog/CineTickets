@@ -1,2 +1,2 @@
-# CineTicketsRep
-Gestión de ticlkets y películas para Cinemas 
+# CineTickets
+Gestión de tickets y películas para Cinemas 
